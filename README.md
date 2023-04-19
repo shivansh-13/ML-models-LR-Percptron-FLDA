@@ -16,3 +16,6 @@ classes in the univariate dimension. Outline the difference between the models â
 ## Part C â€“ Logistic Regression:
 Learning Task 1: Build a classification model (LR1) using Logistic Regression. What happens to testing accuracy when you vary the decision probability threshold from 0.5 to 0.3, 0.4, 0.6 and 0.7.
 Learning Task 2: You should apply Feature Engineering Task 1 and Feature Engineering Task 2 and then build a classification model (LR2) using Logistic Regression. What happens to testing accuracy when you vary the decision probability threshold from 0.5 to 0.3, 0.4, 0.6 and 0.7.
+Learning  Task  2:  You  should  apply  Feature  Engineering  Task  1  and  Feature  Engineering  Task  2 
+and  then  build  a  classification  model  (LR2)  using  Logistic  Regression.  What  happens  to  testing 
+accuracy when you vary the decision probability threshold from 0.5 to 0.3, 0.4, 0.6 and 0.7
